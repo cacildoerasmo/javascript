@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+
+<meta charset="utf-8">
+<title>JavaScript</title>
+
+<style>
+
+body#carro{
+background:green;
+color:white;
+width:20px;
+height:200px;
+line-height:200px;
+text-align:center;
+margin-left:200px;
+}
+
+
+</style>
+
+</head>
+
+
+<body id = "carro" onclick = "clicar()" onmouseout = "sair()"/>
+
+
+<input type = "submit"  name = "inscrever" value = "OK"/>
+
+
+<script>
+//var funcoes = window.document.getElementById('carro')
+
+function clicar(){
+var funcoes = window.document.getElementById('carro')
+funcoes.style.background = 'red'
+}
+
+function sair(){
+var funcoes = window.document.getElementById('carro')
+funcoes.style.background = 'green'
+
+}
+</script>
+
+</body>
+</html>
