@@ -9,6 +9,6 @@ Exercicios feitos em javascript.
 ![Screenshot (233)](https://user-images.githubusercontent.com/71551874/132049315-ce510255-99f5-4ed9-a31e-41fa1a09d17d.png)
 
 # Desenvolvido por
- * Cacildo Erasmo Mabunda
+ * Cacildo Erasmo
 
 Obrigado!
